@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Fabian</h1>
-<h3 align="center">A passionate frontend developer from ;Mexico</h3>
-
-- 👨‍💻 All of my projects are available at [https://paypal.me/theIan1?country.x=MX&locale.x=es_XC](https://paypal.me/theIan1?country.x=MX&locale.x=es_XC)
+<h3 align="center">A passionate frontend developer from Mexico</h3>
 
 - 📫 How to reach me **ianhalomini@gmail.com**
 
